@@ -89,6 +89,10 @@ function App() {
       {/* Using anonymouse function */}
       <button onClick={ () => {setShowText(!showText)}} >SHOW/HIDE</button>
     </div>
+
+
+
+    //sample code to delete here
   );
 }
 
